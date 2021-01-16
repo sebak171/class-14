@@ -1,0 +1,21 @@
+.headder{
+    background: #303952;
+}
+.menu ul li a{
+    text-decoration: none;
+}
+.menu{
+    background: #a55eea;
+}
+.part-1 a{
+    color: darkgreen;
+}
+.part-2 a{
+    color: darkorange;
+}
+.part-3 a{
+    color: dimgray;
+}
+.putter{
+    background: #303952;
+}
